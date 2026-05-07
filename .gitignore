@@ -1,0 +1,70 @@
+##############################
+# Unreal Engine
+##############################
+
+# Compiled binaries
+Binaries/
+Build/
+
+# Generated files
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE / Editor files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.VC.db
+
+# Logs & temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+##############################
+# Unreal Engine specific
+##############################
+
+# Local settings
+Config/DefaultEditorPerProjectUserSettings.ini
+
+# Crash reports
+Crashes/
+
+# Automation
+Automation/
+
+##############################
+# OS generated files
+##############################
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+##############################
+# Packaging output
+##############################
+
+# Build artifacts
+*.exe
+*.dll
+*.app
+*.pak
+*.zip
+
